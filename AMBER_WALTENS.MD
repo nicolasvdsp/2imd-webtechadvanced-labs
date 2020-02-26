@@ -1,1 +1,0 @@
-https://github.com/wakoodi/2imd-webtech3-portfolio.git
