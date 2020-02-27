@@ -1,4 +1,5 @@
-link naar github repo met alle labo's
+# Link to Portfolio
+[Link to portfolio](https://github.com/esat-ergunes/2imd-webtech3-portfolio)
 
 ## Lab 1
 
