@@ -9,6 +9,6 @@
 
 [GRID & FLEX](https://github.com/esat-ergunes/2imd-webtech3-portfolio/tree/master/Lab2)
 
-#### Flexbox: Codepen Link
+#### Grid: Codepen Link
 
 [The Future](https://codepen.io/esatergunes/pen/XWbReyp)
