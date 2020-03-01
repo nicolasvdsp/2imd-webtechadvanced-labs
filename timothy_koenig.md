@@ -23,3 +23,6 @@ https://github.com/tikoStudio/2imd-webtech3-portfolio/tree/master/lab3
 bewijs oefening:
 
 notes: https://codepen.io/tikostudio/pen/KKpqPGK?editors=1111
+
+## mongodb university
+https://github.com/tikoStudio/2imd-webtech3-portfolio/tree/master/mongodb_university
