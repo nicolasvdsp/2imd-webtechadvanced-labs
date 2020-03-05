@@ -1,1 +1,0 @@
-https://github.com/TERRAKID/2imd-webtech3-portfolio.git
