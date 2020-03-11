@@ -9,3 +9,4 @@
 
 ## Lab3
 [Link to Lab3](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab3-es6)
+[Link to codepen demo](https://codepen.io/minju_98/pen/xxGpXwJ)
