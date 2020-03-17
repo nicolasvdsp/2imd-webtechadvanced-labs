@@ -18,3 +18,7 @@ WEEK 2: CSS GRID + FLEXBOX
 [link to codepen IMD Ticket](https://codepen.io/lisa-esd/pen/jOPmypw)
 
 WEEK 3: ES6
+
+WEEK 8: MongoDB 
+
+[link to screenshot MongoDB](https://github.com/r0423168/2imd-webtech3-portfolio/blob/master/Lab12/Lisa_Deroose_MongoDB.png)
