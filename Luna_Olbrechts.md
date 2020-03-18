@@ -9,3 +9,7 @@ https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab2
 ### Link to Lab3 Notes app 
 
 https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab3
+
+### Link to Lab5 Nodejs basics + Mongodb 
+
+https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab5
