@@ -17,3 +17,4 @@
 
 ## MongoDB
 ### [Link to repo](https://github.com/MiguelLamm/2imd-webtech3-portfolio/tree/master/MongoDB)
+![screenshot of MongoDB](https://github.com/MiguelLamm/2imd-webtech3-portfolio/blob/master/MongoDB/screenshot_MongoDB.JPG)
