@@ -20,6 +20,9 @@
 ## Lab 3
 
 [noteRepos](https://github.com/Serat0/2imd-webtech3-portfolio/tree/master/Lab3_ES6/es6-workshop-notes-app/dist)
+
+#### Note App - Codepen.io Link
+
 [noteApp](https://codepen.io/Lazy_student/pen/LYVrweE)
 
 
