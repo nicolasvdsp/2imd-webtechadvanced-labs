@@ -1,6 +1,6 @@
 # Link to Portfolio
 
-[Link to portfolio](https://github.com/Serat0/2imd-webtech3-portfolio)
+[Link to portfolio-Repos](https://github.com/Serat0/2imd-webtech3-portfolio)
 
 ## Lab 1
 [GIT](https://github.com/Serat0/2imd-webtech3-portfolio/tree/master/Lab1-GIT)
@@ -19,9 +19,9 @@
 
 ## Lab 3
 
-[Noteapp] 
+[noteRepos](https://github.com/Serat0/2imd-webtech3-portfolio/tree/master/Lab3_ES6/es6-workshop-notes-app/dist)
+[noteApp](https://codepen.io/Lazy_student/pen/LYVrweE)
 
-##### = Work In Progress 
 
 ## Lab 12
 
