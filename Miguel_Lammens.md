@@ -12,8 +12,8 @@
 ![screenshot of CssGridGarden](https://github.com/MiguelLamm/2imd-webtech3-portfolio/blob/master/lab2/CSSgridscreenshot.PNG)
 
 ## Week 3
-### [link to Note app](https://codepen.io/miguel-justin-lammens/pen/qBdomJJ)
-### [link to repo](https://github.com/MiguelLamm/2imd-webtech3-portfolio/tree/master/lab%203)
+### [link to Note app]
+### [link to repo]
 
 ## MongoDB
 ### [Link to repo](https://github.com/MiguelLamm/2imd-webtech3-portfolio/tree/master/MongoDB)
