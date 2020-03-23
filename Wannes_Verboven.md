@@ -9,3 +9,6 @@ https://github.com/TERRAKID/2imd-webtech3-portfolio.git
 
 ## [Lab 3](https://github.com/TERRAKID/2imd-webtech3-portfolio/tree/master/lab3%20-%20ES6)
 * [Codepen Notes App](https://codepen.io/TERRASTAR/pen/LYVezvP)
+
+## [Lab 4](https://github.com/TERRAKID/2imd-webtech3-portfolio/tree/master/lab4%20-%20prototype)
+* [Codepen app prototype](https://codepen.io/TERRASTAR/pen/yLNRLeB)
