@@ -2,4 +2,5 @@
 Update Portfolio labs:
 Lab 1
 Lab 2
+Lab 4
 Mongodb Completion
