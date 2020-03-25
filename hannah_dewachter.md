@@ -8,5 +8,10 @@ Grid Ticket: https://codepen.io/HannahDW/pen/KKpmpgO
 The Future: https://codepen.io/HannahDW/pen/KKpmpVj
 ## Link to Lab 3
 https://github.com/HannahDeWachter/webtech3-portfolio/tree/master/lab%203/es6-workshop-notes-app
-#### Links to CodePen
+#### Link to CodePen
 Notes App: https://codepen.io/HannahDW/pen/jOPKgJe
+
+## Link to Lab 4
+https://github.com/HannahDeWachter/webtech3-portfolio/tree/master/lab%204
+#### Link to CodePen
+Weather App: https://codepen.io/HannahDW/pen/MWwqpLq
