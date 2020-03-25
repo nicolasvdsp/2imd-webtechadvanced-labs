@@ -11,6 +11,15 @@
 [Link to Lab3](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab3-es6)
 [Link to codepen demo](https://codepen.io/minju_98/pen/xxGpXwJ)
 
+## Lab5
+[Link to lab5](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab5-nodejs)
+
+[Link to codepen](https://codepen.io/minju_98/pen/rNVZMjv)
+
+Because I had to deploy with heroku I needed to make a new repository. All my commit messages are there.
+
+[Link to lab5 api repository 👾](https://github.com/MinjuCo/lab5_nodejs_basics)
+
 ## Lab12 - MongoDB certificate
 [Link to Lab12](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab12-mongodb)
 
