@@ -13,3 +13,7 @@ https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab3
 ### Link to Lab5 Nodejs basics + Mongodb 
 
 https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab5
+
+### Link to Mongodb university course
+
+https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/Mongodb
