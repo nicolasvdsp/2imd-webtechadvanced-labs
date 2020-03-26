@@ -6,3 +6,6 @@
 * [Lab 1](https://github.com/vmbryan/2imd-webtech3-portfolio/tree/master/LAB1_GIT)
 
 * [Lab 2](https://github.com/vmbryan/2imd-webtech3-portfolio/tree/master/LAB2_GRID)
+
+* [Lab 4](https://github.com/vmbryan/2imd-webtech3-portfolio/tree/master/LAB4_PROTOTYPE/weather-ad)
+    * [Link to codepen lab 4](https://codepen.io/vmbryan/pen/Jjdevwa)
