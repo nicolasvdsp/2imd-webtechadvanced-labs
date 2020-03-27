@@ -11,6 +11,10 @@
 [Link to Lab3](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab3-es6)
 [Link to codepen demo](https://codepen.io/minju_98/pen/xxGpXwJ)
 
+## Lab4
+[Link to Lab4](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab4-api)
+[Checkout the API](https://codepen.io/minju_98/pen/ZEGVLxg)
+
 ## Lab5
 [Link to lab5](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab5-nodejs)
 
