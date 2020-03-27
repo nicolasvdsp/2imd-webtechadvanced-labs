@@ -3,7 +3,6 @@
 
 
 [Lab 1](https://github.com/Britt-bit/2imd-webtech3-portfolio/tree/master/lab1-git)
-[Codepen](https://codepen.io/Sky110100/pen/BaNqXez)
 
 [Lab 2](https://github.com/Britt-bit/2imd-webtech3-portfolio/tree/master/lab2-grid) /
 [Codepen Grit-future](https://codepen.io/Sky110100/pen/OJVmLmr) /
