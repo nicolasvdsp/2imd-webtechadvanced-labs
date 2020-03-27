@@ -10,6 +10,10 @@ https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab2
 
 https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab3
 
+### Link to Lab4 Weather based advertisement app
+
+https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab4
+
 ### Link to Lab5 Nodejs basics + Mongodb 
 
 https://github.com/LunaOlbrechts/2imd-webtech3-portfolio/tree/master/lab5
