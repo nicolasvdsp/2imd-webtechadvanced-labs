@@ -8,3 +8,6 @@
 
 ## [Lab 3](https://github.com/boleynen/2imd-webtech3-portfolio/tree/master/lab-3)
 [Bewijs van Lab 3: Todo list op Codepen](https://codepen.io/BoLeynen/pen/JjdvMpX)
+
+## [Lab 4](https://github.com/boleynen/2imd-webtech3-portfolio/tree/master/lab-4)
+[Bewijs van Lab 4: API weather app op Codepen](https://codepen.io/BoLeynen/pen/oNXJbQa)
