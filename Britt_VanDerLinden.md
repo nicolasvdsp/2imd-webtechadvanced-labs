@@ -1,5 +1,6 @@
 # 2imd-webtech3-labs
 
+<<<<<<< HEAD
 [Mijn portfolio](https://github.com/Britt-bit/2imd-webtech3-portfolio) 
 
 
@@ -21,3 +22,6 @@
 
 Completion mongoDB:
 ![alt text](mongoDB.png "mongoDB")
+=======
+[Mijn portfolio](https://github.com/Britt-bit/2imd-webtech3-portfolio)  
+>>>>>>> b4e23f7c808218a5f12d27fe42f0d1a9da76d554
