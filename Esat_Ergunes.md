@@ -15,6 +15,16 @@
 
 [GridTicket](https://codepen.io/esatergunes/pen/BaNZLgJ?editors=1100)
 
+
+## Lab 3
+
+[ES6 Notes App](https://github.com/esat-ergunes/2imd-webtech3-portfolio/tree/master/Lab3)
+
+#### ES6 Notes App: Codepen Link
+
+[ES6 Notes App](https://codepen.io/esatergunes/pen/WNvYxYq)
+
+
 ## Lab 4
 
 [Weather Ads](https://github.com/esat-ergunes/2imd-webtech3-portfolio/tree/master/Lab4)
