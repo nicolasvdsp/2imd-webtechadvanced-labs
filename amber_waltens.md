@@ -6,4 +6,6 @@
 
 [link to lab 4 folder in portfolio](https://github.com/wakoodi/2imd-webtech3-portfolio/tree/master/lab4-weather)
 
+[link to lab 5 file in portfolio](https://github.com/wakoodi/2imd-webtech3-portfolio/blob/master/lab5-fini)
+
 [Link to mongodb university in portfolio](https://github.com/wakoodi/2imd-webtech3-portfolio/tree/master/mongodb_university)
