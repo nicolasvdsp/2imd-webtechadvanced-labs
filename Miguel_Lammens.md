@@ -21,4 +21,4 @@
 
 ## Week 5
 ### [link to codepen app](https://codepen.io/miguel-justin-lammens/pen/ZEGoXap)
-### [link to repo](https://github.com/MiguelLamm/2imd-webtech3-portfolio/tree/master/lab%205)
+### [link to repo](https://github.com/MiguelLamm/2imd-webtech3-portfolio/tree/master/lab%205%20NodeJS)
