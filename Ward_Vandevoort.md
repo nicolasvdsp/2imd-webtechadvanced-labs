@@ -12,6 +12,10 @@ https://github.com/WardVandevoort/2imd-webtech3-portfolio/tree/master/lab2%20-%2
 
 https://github.com/WardVandevoort/2imd-webtech3-portfolio/tree/master/lab3%20-%20ES6
 
+## Lab 4 - API
+
+https://github.com/WardVandevoort/2imd-webtech3-portfolio/tree/master/lab4%20-%20API
+
 ## Lab 5 - Node.js
 
 https://github.com/WardVandevoort/2imd-webtech3-portfolio/tree/master/lab5%20-%20Node.js
