@@ -9,3 +9,5 @@
 
 * [Lab 4](https://github.com/vmbryan/2imd-webtech3-portfolio/tree/master/LAB4_PROTOTYPE/weather-ad)
     * [Link to codepen lab 4](https://codepen.io/vmbryan/pen/Jjdevwa)
+
+* [Mongodb certificate](https://github.com/vmbryan/2imd-webtech3-portfolio/blob/master/mongodb_university/mongodb.md)
