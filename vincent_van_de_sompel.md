@@ -7,3 +7,6 @@ https://github.com/Baribal172/2imd-webtech3-portfolio/tree/master/lab3%20-%20ES6
 - LAB 4
 https://github.com/Baribal172/2imd-webtech3-portfolio/tree/master/lab4%20-%20App%20prototype
 https://codepen.io/baribal172/pen/eYNQzvY
+#Bonus skill 12 - mongodb university
+https://raw.githubusercontent.com/Baribal172/2imd-webtech3-portfolio/master/Bonus%20skill12%20-%20mongodb%20university/MongoDB%20CourseCompletionConfirmation.png
+
