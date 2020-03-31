@@ -11,3 +11,9 @@
 
 ## [Lab 4](https://github.com/boleynen/2imd-webtech3-portfolio/tree/master/lab-4)
 [Bewijs van Lab 4: API weather app op Codepen](https://codepen.io/BoLeynen/pen/oNXJbQa)
+
+## [Lab 5](https://github.com/boleynen/2imd-webtech3-portfolio/tree/master/lab-5)
+
+[Bewijs van Lab 5: Nodejs messages API op Codepen](https://codepen.io/BoLeynen/pen/xxGBVgY)
+
+[Bewijs van Lab 5: Mongodb University](https://github.com/boleynen/2imd-webtech3-portfolio/tree/master/mongodb)
