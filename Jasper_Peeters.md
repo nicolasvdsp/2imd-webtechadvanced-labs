@@ -17,8 +17,12 @@ the future: https://codepen.io/jasperator/pen/KKpWjJZ
 
 IMDticket: https://codepen.io/jasperator/pen/ZEGejMR
 
+## [lab3](https://github.com/Jasperator/2imd-webtech3-portfolio/tree/master/Lab3)
 
-## [lab4](https://github.com/tikoStudio/2imd-webtech3-portfolio/tree/master/lab4)
+Notes app: https://codepen.io/jasperator/pen/bGdywGr
+
+
+## [lab4](https://github.com/Jasperator/2imd-webtech3-portfolio/tree/master/Lab4)
 
 bewijs oefening:
 
