@@ -20,6 +20,10 @@ https://github.com/WardVandevoort/2imd-webtech3-portfolio/tree/master/lab4%20-%2
 
 https://github.com/WardVandevoort/2imd-webtech3-portfolio/tree/master/lab5%20-%20Node.js
 
+## Lab 6 - Web sockets
+
+https://github.com/WardVandevoort/2imd-webtech3-portfolio/blob/master/lab6%20-%20Web%20sockets/Link%20heroku%20%26%20git%20repo.md
+
 ## MongoDB diploma
 
 https://github.com/WardVandevoort/2imd-webtech3-portfolio/blob/master/MongoDB%20-%20diploma.PNG
