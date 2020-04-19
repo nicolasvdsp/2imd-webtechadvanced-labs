@@ -16,5 +16,10 @@ https://github.com/HannahDeWachter/webtech3-portfolio/tree/master/lab%204
 ### Link to CodePen
 Weather App: https://codepen.io/HannahDW/pen/MWwqpLq
 
+## Lab 5 - NodeJS
+https://github.com/HannahDeWachter/Lab5
+### Link to CodePen:
+https://codepen.io/HannahDW/pen/mdeJrpG
+
 ## Link to MongoDB University
 https://github.com/HannahDeWachter/webtech3-portfolio/tree/master/MongoDB
