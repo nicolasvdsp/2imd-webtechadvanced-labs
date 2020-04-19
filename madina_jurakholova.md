@@ -28,3 +28,13 @@ Because I had to deploy with heroku I needed to make a new repository. All my co
 [Link to Lab12](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab12-mongodb)
 
 ![Screenshot m001 certificate](https://github.com/MinjuCo/webtech3-portfolio/blob/master/lab12-mongodb/mj_mongodb_certificate.JPG "MongoDB M001 completion certificate")
+
+## Lab6 - Live update stats with MongoDB
+[Go to app repository 📱](https://github.com/MinjuCo/lab6-sockets-mj)
+[Link to lab6](https://github.com/MinjuCo/webtech3-portfolio/tree/master/lab6-websockets)
+
+[Open Corona Stats Dashboard 🦠](https://coronastats-mj.herokuapp.com/stats/)
+
+[Update stats 👾](https://coronastats-mj.herokuapp.com/stats/updatestats)
+
+![App live update stats](https://github.com/MinjuCo/webtech3-portfolio/blob/master/lab6-websockets/live-app.gif)
