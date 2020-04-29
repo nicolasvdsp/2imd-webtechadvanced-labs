@@ -15,4 +15,4 @@
 
 ## Lab 4
     Weather App Repository: https://github.com/Jadabyte/2imd-webtech3-portfolio/tree/master/lab4-app_prototype
-    Codepen 'Weather App': https://codepen.io/TStreignart/pen/LYVMXXb?editors=1010
+    Codepen 'Weather App': https://codepen.io/TStreignart/pen/OJyjMBo
