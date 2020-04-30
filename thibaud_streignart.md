@@ -12,3 +12,7 @@
 ## Lab 3
     Note App Repository: https://github.com/Jadabyte/2imd-webtech3-portfolio/tree/master/lab3-es6
     Codepen 'Note App': https://codepen.io/TStreignart/pen/jOPXqpY
+
+## Lab 4
+    Weather App Repository: https://github.com/Jadabyte/2imd-webtech3-portfolio/tree/master/lab4-app_prototype
+    Codepen 'Weather App': https://codepen.io/TStreignart/pen/OJyjMBo
