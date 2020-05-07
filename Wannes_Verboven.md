@@ -16,5 +16,9 @@ https://github.com/TERRAKID/2imd-webtech3-portfolio.git
 ## [Lab 5](https://github.com/TERRAKID/2imd-webtech3-portfolio/tree/master/lab5%20-%20nodejs)
 * [Codepen Lab 5 tester](https://codepen.io/TERRASTAR/pen/PoPzoYg)
 
+## [Lab 6](https://github.com/TERRAKID/2imd-webtech3-portfolio/tree/master/lab6%20-%20sockets)
+* [Heroku](https://coronaapp-terrakid.herokuapp.com)
+![](https://github.com/TERRAKID/2imd-webtech3-portfolio/blob/master/lab6%20-%20sockets/app.gif)
+
 ## [Lab 12](https://github.com/TERRAKID/2imd-webtech3-portfolio/tree/master/lab12%20-%20mongodb%20university)
 * [Course Completion Confirmation](https://university.mongodb.com/course_completion/b2874b23-bba3-4adf-8971-b44c1955b836)
