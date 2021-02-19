@@ -1,7 +1,7 @@
-#2imd-webtech3-labs
+# 2imd-webtech3-labs
 
-##Link to Portfolio Repository
+## Link to Portfolio Repository
 https://github.com/seppevg/2imd-dev-portfolio
 
-##Link to Labs
+## Link to Labs
 [LAB 1](https://github.com/seppevg/2imd-dev-advanced-lab1)
