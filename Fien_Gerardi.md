@@ -10,5 +10,5 @@ https://github.com/fgrardi/2imd-dev-portfolio.git
 [Click here](https://github.com/fgrardi/2imd-dev-portfolio/tree/main/lab2) to see the my assignments using Flexbox and Grid!
 
 Links to my projects of this lab:
-> [The Future](https://codesandbox.io/s/thefuture-s31q1)
-> [Grid Ticket](https://codesandbox.io/s/gridticket-hllnx?file=/index.html)
+- [The Future](https://codesandbox.io/s/thefuture-s31q1)
+- [Grid Ticket](https://codesandbox.io/s/gridticket-hllnx?file=/index.html)
