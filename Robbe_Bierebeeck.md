@@ -1,2 +1,1 @@
-link to portfolio: https://github.com/Robbe-coder/2imd-dev-portfolio
-
+Link to lab2: https://github.com/Robbe-coder/2imd-dev-portfolio
