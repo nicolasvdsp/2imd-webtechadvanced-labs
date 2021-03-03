@@ -4,6 +4,8 @@
 
 ## Specific lab links
 
-[Lab 1](https://github.com/Moophie/2imd-dev-advanced-lab1)
-\
-What project do we want to take on for Webtech advanced: frontend? Built with cooperation in Git. 
+## LAB 1
+[Git exercises and a small website](https://github.com/Moophie/2imd-dev-portfolio/tree/master/lab1%20-%20git)
+
+## LAB 2 
+[Grid/Flex exercises](https://github.com/Moophie/2imd-dev-portfolio/tree/master/lab2%20-%20css)
