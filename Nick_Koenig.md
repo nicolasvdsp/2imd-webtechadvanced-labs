@@ -5,3 +5,7 @@
 
 ## Lab 2
 [Lab2](https://github.com/NickKoenig96/2imd-webtechadvanced-portfolio/tree/main/Lab2-flexbox.grid)
+
+## Lab 3
+[Lab3](https://github.com/NickKoenig96/2imd-webtechadvanced-portfolio/tree/main/Lab3)
+
