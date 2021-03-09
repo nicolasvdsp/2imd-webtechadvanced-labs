@@ -12,4 +12,5 @@
 
 ## LAB 3
 [ES6 Notes application](https://github.com/Moophie/2imd-dev-portfolio/tree/lab3/lab3%20-%20es6)
+
 [CodeSandbox link](https://codesandbox.io/s/lab3-todo-app-forked-qbij3?file=/babel.config.json)
