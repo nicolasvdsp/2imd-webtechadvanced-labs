@@ -11,4 +11,4 @@
 [Grid/Flex exercises](https://github.com/Moophie/2imd-dev-portfolio/tree/master/lab2%20-%20css)
 
 ## LAB 3
-[ES6 Notes application](https://github.com/Moophie/2imd-dev-portfolio/tree/lab3/lab3%20-%20es6)
+[ES6 Notes application](https://github.com/Moophie/2imd-dev-portfolio/tree/master/lab3%20-%20es6)
