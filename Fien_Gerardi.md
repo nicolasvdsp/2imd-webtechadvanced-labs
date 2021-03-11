@@ -12,3 +12,6 @@ https://github.com/fgrardi/2imd-dev-portfolio.git
 Links to my projects of this lab:
 - [The Future](https://codesandbox.io/s/thefuture-s31q1)
 - [Grid Ticket](https://codesandbox.io/s/gridticket-hllnx?file=/index.html)
+
+## Lab 3
+[Click here](https://codesandbox.io/s/to-do-app-lab-3-fbmp7) to see the result of my to do app in CodeSandbox! You can also navigate to my [lab 3 folder](https://github.com/fgrardi/2imd-dev-portfolio/tree/main/lab3)
