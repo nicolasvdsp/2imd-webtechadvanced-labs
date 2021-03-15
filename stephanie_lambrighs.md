@@ -8,3 +8,6 @@
 
 ## Lab 3
 [Link to my Lab 3 respository](https://github.com/stephanielambrighs/2imd-webtechadvanced-portfolio/tree/main/lab3)
+
+## Lab 4 
+[Link to my Lab 4 respository](https://github.com/stephanielambrighs/2imd-webtechadvanced-portfolio/tree/main/lab4)
