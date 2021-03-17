@@ -1,3 +1,4 @@
 - [Link to repository website Lab1](https://github.com/NickBevers/2imd-dev-advanced-lab1)
 - [Link to repository Lab 2 - Grid](https://github.com/nicolasvdsp/2imd-webtechadvanced-portfolio/tree/main/lab2)
+- [Link to repository Lab 3 - ES 6](https://github.com/nicolasvdsp/2imd-webtechadvanced-portfolio/tree/main/lab3)
 - [Link to personal portfolio](https://github.com/nicolasvdsp/2imd-webtechadvanced-portfolio)
